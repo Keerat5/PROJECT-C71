@@ -44,4 +44,4 @@ const TabNavigator = createBottomTabNavigator({
 }
   )
 
-const AppContainer = createAppContainer(TabNavigator);
+  const AppContainer = createAppContainer(TabNavigator);
